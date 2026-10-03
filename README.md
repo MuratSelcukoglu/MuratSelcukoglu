@@ -8,8 +8,6 @@
 
 - 📱 Mobile frontend developer with 5+ years of React Native experience
 - 🛍️ Worked on 40+ mobile apps, mostly e-commerce apps for international brands
-- 🐊 Led the development and launch of the Lacoste app in Turkey – the first Lacoste mobile app worldwide
-- ⛽ Built and published **Tankfuchs DE**, a fuel price comparison app for Germany (iOS & Android)
 - 🚀 Building my own products at [DumpyApps](https://dumpyapps.com)
 - 📍 Germany
 
@@ -27,10 +25,6 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Brands I've worked with
-
-Lacoste · Marks & Spencer · GAP · Koton · Intersport · Forever21 · Lulu Supermarket
 
 ## Get in touch
 
